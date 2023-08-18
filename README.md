@@ -1,0 +1,2 @@
+# HamtaroCore
+HamtaroCore - MC ModPack
