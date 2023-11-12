@@ -5,7 +5,7 @@ HamtaroCore - MC ModPack
 
 
 
-### The favorite mods of HamilaPlayzMC for Fabric 1.20.1 and Forge 1.20.1, adding QOL mods and No Chat Reporting.
+### The favorite mods of HamilaPlayzMC/hammiesquee for Fabric 1.20.1 and Forge 1.20.1, adding QOL mods and No Chat Reporting.
 
 
 
