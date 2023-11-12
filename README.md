@@ -1,4 +1,4 @@
-# HamtaroCore
+# HamtaroCore Minecraft Mods
 HamtaroCore - MC ModPack
 
 ## WINDOWS 10/11 ONLY
