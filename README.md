@@ -4,6 +4,7 @@ HamtaroCore - MC ModPack
 ## WINDOWS 10/11 ONLY
 
 
+[![Hamtaro-CORE-Icon.png](https://i.postimg.cc/sD8vvvg0/Hamtaro-CORE-Icon.png)](https://postimg.cc/7f3xRP7g)
 
 ### The favorite mods of HamilaPlayzMC/hammiesquee for Fabric 1.20.1 and Forge 1.20.1, adding QOL mods and No Chat Reporting.
 
